@@ -8,51 +8,93 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Milind Sharma and I am a postdoctoral research associate in the Department of Atmospheric Sciences at Texas A&M University. I study atmospheric convection, specifically deep convective clouds using observations from weather radars and lightning mapping array. During my Ph.D., I worked on identification and tracking of polarimetric fingerprints such as ZDR and KDP columns in tornadic storms. Since observations of cloud microphysical processes (remotely sensed or in situ) are often unable to resolve the spatio-temporal
+<!-- <html>
+<head>
+<style>
+a:link {
+  color: RoyalBlue;
+  background-color: transparent;
+  text-decoration: none;
+}
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+a:visited {
+  color: Purple;
+  background-color: transparent;
+  text-decoration: none;
+}
 
-A data-driven personal website
+a:hover {
+  color: RoyalBlue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: DarkRed;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>  
+</head>   -->
+  
+
+<p align="justify" vspace = "-0px" width="200px"> Welcome! I am a postdoctoral research associate in the <a href="https://atmo.tamu.edu/">Department of Atmospheric Sciences</a> at Texas A&M University. I study atmospheric convection, specifically deep convective clouds using observations from weather radars and lightning mapping array. I am currently working on disentangling the role of background meteorology and aerosols on deep convective updrafts as part of the <a href="https://www.arm.gov/research/campaigns/amf2021tracer">DOE TRACER field campaign</a>. As part of my Ph.D. dissertation at <a href="https://www.eaps.purdue.edu/">Purdue University</a>, I worked on identification and tracking of polarimetric fingerprints such as differential reflectivity (Z<sub>DR</sub>) and specific differential phase (K<sub>DP</sub>) columns in tornadic storms. I also utilized ensemble Kalman filter (EnKF) radar data assimilation to study cold pool-lightning covariability while simulating these tornadic storms.</p>
+
+<font color="SteelBlue">Research Interests:</font> Weather radar polarimetry, Lightning meteorology, Deep convective processes, Severe storms dynamics and microphysics, Spatio-temporal statistics and causal inference.
+  <br><br>
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+
+Recent News:
 ======
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**August 2023:** 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I'll be presenting TAMU TRACER results at the 40th AMS Conference on Radar Meteorology in Minneapolis, MN. <a href="" target="_blank" LINK="red">[Talk]</a>
 
-Getting started
-======
+I'll be giving an invited talk on "Regional variability of thermodynamics/sea-breeze" at the ARM/ASR meeting during the breakout session on 'Building Collaborations Around TRACER Science Objectives'.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I'll be presenting a poster on TAMU TRACER results at the 2023 Joint ARM/ASR PI meeting in Rockville, MD <a href="" target="_blank" LINK="red">[Poster pdf]</a>. I will also be delivering a tutorial on "Enhancing Geoscientific Computational Skills with Project Pythia" in the breakout session on Open Science.
 
-Site-wide configuration
-------
+**July 2023:** 
 
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header.
+Dr. Nowotarski presented a poster on our TAMU TRACER research at the AMS joint 32<sup>nd</sup> Conference on Weather Analysis and Forecasting, 28<sup>th</sup> Conference on Numerical Weather Prediction and 20<sup>th</sup> Conference on Mesoscale Processes. <a href="https://figshare.com/articles/poster/AMS_Mesocale_Conference_Poster_2023_/23657190" target="_blank" LINK="red">[Poster pdf]</a>  
 
-Create content & metadata
-------
+**June 2023:** 
 
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications,_talks, _posts,_teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the_talks directory).
+Attended Project Pythia Cook-off 2023 at the NCAR Mesa Lab, Boulder, CO, USA. Contributed example workflows to [radar cookbook](https://projectpythia.org/radar-cookbook/README.html). 
 
-**Markdown generator**
+Received the Texas A&M College of Arts & Sciences postdoc travel award ($1000) to present research at the AMS radar conference.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**May 2023:**
 
-How to edit your site's GitHub repository
-------
+Served on the program committee of the 40th AMS Radar Conference, held in Minnesota, MN. Reviewed abstract submissions.
 
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons.
+Presented preliminary analysis of TAMU TRACER radiosonde and thunderstorm tracking data across sea-breeze fronts at the TRACER Science Workshop in Houston, TX.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+**January 2023:** 
 
-For more info
-------
+Presented results on thermodynamic variability across sea-breeze fronts during the TAMU TRACER IOPs at the 103rd AMS Annual Meeting in Denver, CO. <a href="https://ams.confex.com/ams/103ANNUAL/meetingapp.cgi/Session/63618" target="_blank" LINK="red">[Talk]</a>
 
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Co-chair for the 11th Conference on the Meteorological Application of Lightning Data - Session on Lightning and Cloud Processes: Microphysics, Electrification, Thunderstorm Kinematics, Dynamics, and Lightning I.
+
+**October 2022:** 
+
+Won 3rd place in the student poster presentation competition at the AMS 30th Severe Local Storms conference in Santa Fe, NM. <a href="https://doi.org/10.6084/m9.figshare.23666259.v1" target="_blank" LINK="red">[Poster pdf]</a>
+
+**August - September 2022:**
+
+Forecaster for ARM TRACER field campaign and led radiosonde deployments for the TAMU TRACER field campaign.
+
+**August 2022:** 
+Joined Dr. Anita Rapp and Dr. Christopher Nowotarski's research group in the Department of Atmospheric Sciences at Texas A&M University.
+
+**July 2022:**
+ 
+Defended my Ph.D. dissertation at Purdue University. <a href="https://doi.org/10.25394/PGS.20392422.v1" target="_blank" LINK="red">[Dissertation link]</a>
+
+**April 2022:** 
+
+Received the Purdue EAPS Outstanding Graduate Student Award.
+
+<!-- </body>
+</html> -->
