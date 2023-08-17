@@ -46,6 +46,9 @@ a:active {
 
 Recent News:
 ======
+**September 2023:** 
+
+I'll be attending a two day "COLDEX Early Career Researcher Workshop on Building Leadership and Team Skills for Professional Success" at Oregon State University in Corvallis, OR.
 
 **August 2023:** 
 
