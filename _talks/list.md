@@ -25,8 +25,8 @@ permalink: /talks/list.md
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="invited-talks">Invited Talks:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl style="margin:0px;margin-bottom:0">
-     <dt><span style="color:DarkBlue">Regional variability of thermodynamics/sea breeze.</span>
-          <a href="https://web.cvent.com/event/ceebc9ee-7df0-493e-814d-56566b154732/websitePage:b1fc3103-98a7-4d60-b368-25314f222c2a">[Building Collaborations Around TRACER Science Objectives]</a> </dt> 
+     <dt><span style="color:DarkBlue">Regional Variability of Thermodynamics/Sea breeze: Insights from the TRACER Field Campaign.</span>
+          <a href="https://asr.science.energy.gov/meetings/stm/presentations/2023/1719.pdf">[Building Collaborations Around TRACER Science Objectives]</a> </dt> 
      <dd>2023 ARM/ASR Joint User Facility and PI Meeting, Washington D.C., USA. August, 2023.</dd>
 </dl>
 <!-- <hr>
