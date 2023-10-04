@@ -48,6 +48,10 @@ Recent News:
 ======
 **September 2023:** 
 
+I'll be giving an invited talk on "Exploring Thermodynamic Variability and Storm Lifecycle Across Southesat Texas Sea Breeze Fronts" at the Southern Regional Climate Center annual meeting in Houston, TX.
+
+**September 2023:** 
+
 I'll be attending a two day "COLDEX Early Career Researcher Workshop on Building Leadership and Team Skills for Professional Success" at Oregon State University in Corvallis, OR.
 
 **August 2023:** 
