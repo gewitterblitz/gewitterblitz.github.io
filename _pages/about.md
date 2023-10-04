@@ -46,7 +46,7 @@ a:active {
 
 Recent News:
 ======
-**September 2023:** 
+**November 2023:** 
 
 I'll be giving an invited talk on "Exploring Thermodynamic Variability and Storm Lifecycle Across Southesat Texas Sea Breeze Fronts" at the Southern Regional Climate Center annual meeting in Houston, TX.
 

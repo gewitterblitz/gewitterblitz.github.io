@@ -25,7 +25,7 @@ permalink: /talks/list.md
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="invited-talks">Invited Talks:</a></h2>
 <hr style="height:1px;border-width:0;color:black;background-color:black">
 <dl style="margin:0px;margin-bottom:0">
-     <dt><span style="color:DarkBlue">Exploring Thermodynamic Variability and Storm Lifecycle Across Southeast Texas Sea Breeze Fronts.</span>
+     <dt><span style="color:DarkBlue">Exploring Thermodynamic Variability and Storm Lifecycle Across Southeast Texas Sea Breeze Fronts.</span></dt>
           <!-- <a href="">[Slides]</a> </dt>  -->
      <dd>Southern Regional Climate Center (SRCC) annual meeting, Houston, Texas, USA. November, 2023.</dd>
      <dt><span style="color:DarkBlue">Regional Variability of Thermodynamics/Sea breeze: Insights from the TRACER Field Campaign.</span>
