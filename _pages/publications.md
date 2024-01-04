@@ -89,7 +89,7 @@ a:active {
 
   <li>  <b>Observed variability in thunderstorm characteristics and near-storm environments across the sea-breeze front in Southeast Texas during the DOE TRACER field campaign</b> 
   <br>  Milind Sharma, Anita D. Rapp, Christopher J. Nowotarski 
-  <br>  Submitted to AMS Monthly Weather Review.</li>   
+  <br>  Conditionally accepted: AMS Monthly Weather Review.</li>   
   
   <li>  <b>Investigating temporal characteristics of polarimetric and electrical signatures in severe storms: Insights from the VORTEX-Southeast field campaign</b>
   <br>  Milind Sharma, Robin L. Tanamachi, Eric C. Bruning
