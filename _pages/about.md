@@ -50,6 +50,10 @@ Recent News:
 
 I've been selected for the 2024 American Meteorological Society Early Career Leadership Academy. I'll join a group of early career leaders in water, weather, and climate science in Myrtle Beach, South Carolina in June.
 
+**January 2024:** 
+
+I started my tenure as a regular member of the <a href="https://www.ametsoc.org/index.cfm/stac/committees/committee-on-weather-analysis-and-forecasting/" target="_blank" LINK="red">[AMS Weather Analysis and Forecasting committee]. In the near term, I will work with the implementation planning, AMS glossary, and Mitchell Award subcommittees.
+
 **November 2023:** 
 
 I'll be giving an invited talk on "Exploring Thermodynamic Variability and Storm Lifecycle Across Southesat Texas Sea Breeze Fronts" at the Southern Regional Climate Center annual meeting in Houston, TX.
