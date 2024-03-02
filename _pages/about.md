@@ -46,6 +46,10 @@ a:active {
 
 Recent News:
 ======
+**March 2024:** 
+
+I've been selected for the 2024 American Meteorological Society Early Career Leadership Academy. I'll join a group of early career leaders in water, weather, and climate science in Myrtle Beach, South Carolina in June.
+
 **November 2023:** 
 
 I'll be giving an invited talk on "Exploring Thermodynamic Variability and Storm Lifecycle Across Southesat Texas Sea Breeze Fronts" at the Southern Regional Climate Center annual meeting in Houston, TX.
