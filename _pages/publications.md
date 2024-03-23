@@ -82,10 +82,22 @@ a:active {
   
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="full_publications">Full list of Publications:</a></h2>
   
-<h2 style="color:DarkRed;">2023</h2>  
+<h2 style="color:DarkRed;">2024</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
 <ul style="margin:1;padding:1">
+
+  <li>  <b>A Unique Inter-Agency Collaboration and Weather Forecasting Exercise to support the TRACER+ Field Experiments near Houston, Texas</b>
+  <br>  Siddhant Gupta, ..., Milind Sharma, and others.
+  <br>  In preparation for submission to Bulletin of American Meteorological Society.</li>
+
+  <li>  <b>Spatially distributed atmospheric boundary layer properties in Houston – Best estimate observational dataset</b>
+  <br>  Katia Lamer, ..., Milind Sharma, and others.
+  <br>  Submitted to Nature Scientific Data.</li>
+
+  <li>  <b>An overview of the TAMU TRACER field campaign</b>
+  <br>  Anita D. Rapp, Sarah D. Brooks, Christopher J. Nowotarski, Milind Sharma, and others.
+  <br>  Submitted to Bulletin of American Meteorological Society.</li>
 
   <li>  <b>Observed variability in thunderstorm characteristics and near-storm environments across the sea-breeze front in Southeast Texas during the DOE TRACER field campaign</b> 
   <br>  Milind Sharma, Anita D. Rapp, Christopher J. Nowotarski 
