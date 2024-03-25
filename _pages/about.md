@@ -46,6 +46,10 @@ a:active {
 
 Recent News:
 ======
+**April 2024:** 
+
+I will be attending the 2024 NOAA Hazardous Weather Testbed (HWT) Spring Forecast Experiment hosted by the Storm Prediction Center and the National Severe Storms Laboratory next month at the University of Oklahoma, Norman, USA.
+
 **March 2024:** 
 
 I've been selected for the 2024 American Meteorological Society Early Career Leadership Academy. I'll join a group of early career leaders in water, weather, and climate science in Myrtle Beach, South Carolina in June.
