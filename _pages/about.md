@@ -46,7 +46,10 @@ a:active {
 
 Recent News:
 ======
+
 **April 2024:** 
+
+I am excited to share that a paper based on my Ph.D. dissertation has been accepted for publication in the AMS Monthly Weather Review. This paper delves into the observational analysis of radar and lightning signatures in nonclassic tornadic storms in the southeast U.S. Titled 'Investigating Temporal Characteristics of Polarimetric and Electrical Signatures in Three Severe Storms: Insights from the VORTEX-Southeast Field Campaign,' it offers valuable insights into the cloud microphysical processes and their role in storm electrification. Stay tuned for the EOR link!
 
 I will be attending the 2024 NOAA Hazardous Weather Testbed (HWT) Spring Forecast Experiment hosted by the Storm Prediction Center and the National Severe Storms Laboratory next month at the University of Oklahoma, Norman, USA.
 

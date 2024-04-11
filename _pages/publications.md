@@ -105,7 +105,7 @@ a:active {
   
   <li>  <b>Investigating temporal characteristics of polarimetric and electrical signatures in severe storms: Insights from the VORTEX-Southeast field campaign</b>
   <br>  Milind Sharma, Robin L. Tanamachi, Eric C. Bruning
-  <br>  Conditionally accepted: AMS Monthly Weather Review.</li>  
+  <br>  In press: AMS Monthly Weather Review.</li>  
   
   
                       
