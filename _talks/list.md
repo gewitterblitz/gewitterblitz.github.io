@@ -46,6 +46,8 @@ permalink: /talks/list.md
 <dl>
   <dt><span style="color:DarkBlue">Sensitivity of convective cell characteristics to TRACER thermodynamic and aerosol environments in observations and idealized simulations.</span></dt>
   <dd>Aerosol, Cloud, Precipitation and Climate Initiative workshop. London, UK. 20-22 May 2024.</dd>
+  <dt><span style="color:DarkBlue">Spatio-temporal analysis of lightning point process data in severe storms.</span></dt> 
+  <dd>In Book of Abstracts SDS 2024. 11-12 April 2024. <a href="https://iris.unipa.it/handle/10447/628133">[Abstract link]</a></dd> 
   <dt><span style="color:DarkBlue">Does Meteorological Variability Across Sea and Bay-Breeze Fronts Influence Thunderstorm Characteristics? Insights from the TAMU TRACER Field Campaign</span></dt>
 <dd>40th AMS Conference on Radar Meteorology. Minneapolis, MN, USA. 29 August 2023. <a href="https://ams.confex.com/ams/40RADAR/meetingapp.cgi/Paper/425990">[Abstract link]</a></dd>
      
