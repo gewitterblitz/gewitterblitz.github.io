@@ -89,15 +89,15 @@ a:active {
 
   <li>  <b>A Unique Inter-Agency Collaboration and Weather Forecasting Exercise to support the TRACER+ Field Experiments near Houston, Texas</b>
   <br>  Siddhant Gupta, ..., Milind Sharma, and others.
-  <br>  In preparation for submission to Bulletin of American Meteorological Society.</li>
+  <br>  Submitted to Bulletin of American Meteorological Society.</li>
 
-  <li>  <b>Spatially distributed atmospheric boundary layer properties in Houston – Best estimate observational dataset</b>
+  <li>  <a href="https://www.nature.com/articles/s41597-024-03477-9" target="_blank"> Spatially distributed atmospheric boundary layer properties in Houston – A value-added observational dataset</a>
   <br>  Katia Lamer, ..., Milind Sharma, and others.
-  <br>  Submitted to Nature Scientific Data.</li>
+  <br>  In Nature Scientific Data.</li>
 
   <li>  <b>An overview of the TAMU TRACER field campaign</b>
   <br>  Anita D. Rapp, Sarah D. Brooks, Christopher J. Nowotarski, Milind Sharma, and others.
-  <br>  Submitted to Bulletin of American Meteorological Society.</li>
+  <br>  In press: Bulletin of American Meteorological Society.</li>
 
   <li>  <a href="../files/TRACER_obs_analysis_submitted_version.pdf" target="_blank"> Observed variability in thunderstorm characteristics and near-storm environments across the sea-breeze front in Southeast Texas during the DOE TRACER field campaign</a> 
   <br>  Milind Sharma, Anita D. Rapp, Christopher J. Nowotarski 
@@ -117,9 +117,9 @@ a:active {
   </details>
   
   
-  <li> <a href="https://journals.ametsoc.org/view/journals/mwre/aop/MWR-D-23-0144.1/MWR-D-23-0144.1.xml" target="_blank"> Investigating temporal characteristics of polarimetric and electrical signatures in severe storms: Insights from the VORTEX-Southeast field campaign</a>
+  <li> <a href="https://journals.ametsoc.org/view/journals/mwre/152/7/MWR-D-23-0144.1.xml" target="_blank"> Investigating temporal characteristics of polarimetric and electrical signatures in severe storms: Insights from the VORTEX-Southeast field campaign</a>
     <br>  Milind Sharma, Robin L. Tanamachi, Eric C. Bruning
-    <br>  In press: AMS Monthly Weather Review.</li>
+    <br>  In AMS Monthly Weather Review.</li>
     <details>
     <summary><span style="color:Maroon;"> 1 min pitch!</span></summary>
     <span class="abstract-text" style="font-size:.90em; color:Maroon; text-align: justify"> 
