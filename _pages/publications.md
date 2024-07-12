@@ -95,9 +95,9 @@ a:active {
   <br>  Katia Lamer, ..., Milind Sharma, and others.
   <br>  In Nature Scientific Data.</li>
 
-  <li>  <b>An overview of the TAMU TRACER field campaign</b>
+  <li>  <a href="https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0218.1/BAMS-D-23-0218.1.xml" target="_blank"> An overview of the TAMU TRACER field campaign</a>
   <br>  Anita D. Rapp, Sarah D. Brooks, Christopher J. Nowotarski, Milind Sharma, and others.
-  <br>  In press: Bulletin of American Meteorological Society.</li>
+  <br>  EOR: Bulletin of American Meteorological Society.</li>
 
   <li>  <a href="../files/TRACER_obs_analysis_submitted_version.pdf" target="_blank"> Observed variability in thunderstorm characteristics and near-storm environments across the sea-breeze front in Southeast Texas during the DOE TRACER field campaign</a> 
   <br>  Milind Sharma, Anita D. Rapp, Christopher J. Nowotarski 
