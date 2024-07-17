@@ -47,6 +47,18 @@ a:active {
 Recent News:
 ======
 
+**July 2024:** 
+
+An overview paper led by Dr. Anita Rapp, summarizing the TAMU TRACER field campaign and co-authored by me, was published in the Bulletin of the American Meteorological Society. The paper discusses the mobile field data collection by the radiosonde and aerosol teams at Texas A&M University during the TRACER IOP from June to September 2022. These mobile observations enabled the TAMU team to sample the mesoscale heterogeneity in the thermodynamic characteristics and aerosol concentration across the sea breeze fronts in southeast Texas. You can access the paper *[here](https://doi.org/10.1175/BAMS-D-23-0218.1), which also contains the link to all open-access radiosonde and aerosol data collected during the field campaign.
+
+**June 2024:** 
+
+A paper led by Dr. Katia Lamer from Brookhaven National Laboratory, which I co-authored, was published in Nature Scientific Data. The paper presents a value-added observational dataset on planetary boundary layer depth across the Greater Houston metropolitan region. The data collection for these spatially distributed observations was made possible by the Department of Energy's *[TRACER](https://www.arm.gov/research/campaigns/amf2021tracer) field campaign conducted over 2021-22 in southeast Texas. You can access the paper *[here](https://www.nature.com/articles/s41597-024-03477-9).
+
+**May 2024:** 
+
+I received two research awards from the TAMU College of Arts & Sciences: the Travel Program for Postdoctoral Researchers and the Research Proposal Development Award. I will use the travel grant to cover my expenses for the NOAA HWT-SFE trip in Norman, OK, and the proposal development award to support the submission of an NSF proposal.
+
 **April 2024:** 
 
 I am excited to share that a paper based on my Ph.D. dissertation has been accepted for publication in the AMS Monthly Weather Review. This paper delves into the observational analysis of radar and lightning signatures in nonclassic tornadic storms in the southeast U.S. Titled 'Investigating Temporal Characteristics of Polarimetric and Electrical Signatures in Three Severe Storms: Insights from the VORTEX-Southeast Field Campaign,' it offers valuable insights into the cloud microphysical processes and their role in storm electrification. Stay tuned for the EOR link!
