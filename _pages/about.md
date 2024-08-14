@@ -47,6 +47,12 @@ a:active {
 Recent News:
 ======
 
+**August 2024:** 
+
+The first paper from my postdoctoral research has been accepted for publication in the AMS Monthly Weather Review. In this study, we analyzed radiosonde observations to examine the meteorological conditions that serve as inflow to isolated deep convective cells. This research, funded by the U.S. Department of Energy, focuses on the evolution of isolated cells in maritime and continental air masses across sea and bay breeze fronts in southeast Texas. Our findings show that mesoscale heterogeneity across these frontal boundaries favors maritime air masses with greater thermodynamic instability, leading to shallow convection with larger composite reflectivity and deep convection with greater cell area throughout their life cycle. You can access the paper *[here](https://doi.org/10.1175/MWR-D-23-0243.1)*.
+
+I'm excited to announce that I've joined the AMS education newsletter, *Weather With A Twist*, as a scientific reviewer. Under the leadership of Aaron Price, I'm part of a team of four passionate science communicators dedicated to sharing the latest and most exciting research in weather, water, and climate from around the world. The first issue I reviewed is now online and can be accessed *[here](https://weathertwist.substack.com/p/the-subtle-sublimation-of-snow?utm_source=post-email-title&publication_id=2108892&post_id=147021050&utm_campaign=email-post-title&isFreemail=true&r=3noptl&triedRedirect=true&utm_medium=email).
+
 **July 2024:** 
 
 An overview paper led by Dr. Anita Rapp, summarizing the TAMU TRACER field campaign and co-authored by me, was published in the Bulletin of the American Meteorological Society. The paper discusses the mobile field data collection by the radiosonde and aerosol teams at Texas A&M University during the TRACER IOP from June to September 2022. These mobile observations enabled the TAMU team to sample the mesoscale heterogeneity in the thermodynamic characteristics and aerosol concentration across the sea breeze fronts in southeast Texas. You can access the paper *[here](https://doi.org/10.1175/BAMS-D-23-0218.1)*, which also contains the link to all open-access radiosonde and aerosol data collected during the field campaign.

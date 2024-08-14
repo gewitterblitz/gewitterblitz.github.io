@@ -99,9 +99,9 @@ a:active {
   <br>  Anita D. Rapp, Sarah D. Brooks, Christopher J. Nowotarski, Milind Sharma, and others.
   <br>  EOR: Bulletin of American Meteorological Society.</li>
 
-  <li>  <a href="../files/TRACER_obs_analysis_submitted_version.pdf" target="_blank"> Observed variability in thunderstorm characteristics and near-storm environments across the sea-breeze front in Southeast Texas during the DOE TRACER field campaign</a> 
+  <li>  <a href="https://journals.ametsoc.org/view/journals/mwre/aop/MWR-D-23-0243.1/MWR-D-23-0243.1.xml" target="_blank"> Observed variability in thunderstorm characteristics and near-storm environments across the sea-breeze front in Southeast Texas during the DOE TRACER field campaign</a> 
   <br>  Milind Sharma, Anita D. Rapp, Christopher J. Nowotarski 
-  <br>  Conditionally accepted: AMS Monthly Weather Review.</li>
+  <br>  EOR: AMS Monthly Weather Review.</li>
   <details>
   <summary><span style="color:Maroon;"> 1 min pitch!</span></summary>
   <span class="abstract-text" style="font-size:.90em; color:Maroon; text-align: justify">
