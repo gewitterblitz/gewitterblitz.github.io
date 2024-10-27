@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Your Sidebar Name"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Associate<br> Texas A&M University"
+  bio              : "Assistant Research Scientist<br> Texas A&M University"
   location         : "College Station"
   employer         : 
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

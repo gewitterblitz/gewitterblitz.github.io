@@ -38,7 +38,7 @@ a:active {
 </head>   -->
   
 
-<p align="justify" vspace = "-0px" width="200px"> Welcome! I am a postdoctoral research associate in the <a href="https://atmo.tamu.edu/">Department of Atmospheric Sciences</a> at Texas A&M University. I study atmospheric convection, specifically deep convective clouds using observations from weather radars and lightning mapping array. I am currently working on disentangling the role of background meteorology and aerosols on deep convective updrafts as part of the <a href="https://www.arm.gov/research/campaigns/amf2021tracer">DOE TRACER field campaign</a>. As part of my Ph.D. dissertation at <a href="https://www.eaps.purdue.edu/">Purdue University</a>, I worked on identification and tracking of polarimetric fingerprints such as differential reflectivity (Z<sub>DR</sub>) and specific differential phase (K<sub>DP</sub>) columns in tornadic storms. I also utilized ensemble Kalman filter (EnKF) radar data assimilation to study cold pool-lightning covariability while simulating these tornadic storms.</p>
+<p align="justify" vspace = "-0px" width="200px"> Welcome! I am an assistant research scientist in the <a href="https://atmo.tamu.edu/">Department of Atmospheric Sciences</a> at Texas A&M University. I study atmospheric convection, specifically deep convective clouds using observations from weather radars and lightning mapping array. I am currently working on disentangling the role of background meteorology and aerosols on deep convective updrafts as part of the <a href="https://www.arm.gov/research/campaigns/amf2021tracer">DOE TRACER field campaign</a>. As part of my Ph.D. dissertation at <a href="https://www.eaps.purdue.edu/">Purdue University</a>, I worked on identification and tracking of polarimetric fingerprints such as differential reflectivity (Z<sub>DR</sub>) and specific differential phase (K<sub>DP</sub>) columns in tornadic storms. I also utilized ensemble Kalman filter (EnKF) radar data assimilation to study cold pool-lightning covariability while simulating these tornadic storms.</p>
 
 <font color="SteelBlue">Research Interests:</font> Weather radar polarimetry, Lightning meteorology, Deep convective processes, Severe storms dynamics and microphysics, Spatio-temporal statistics and causal inference.
   <br><br>
@@ -47,11 +47,21 @@ a:active {
 Recent News:
 ======
 
+**October 2024:** 
+
+Major career update: I have been promoted to Assistant Research Scientist in the Department of Atmospheric Science at Texas A&M University, effective October 2024. 
+
+
+**September 2024:** 
+
+A proposal led by Dr. Christopher Nowotarski, with me as a Co-PI, has been selected for DOE ASR funding. In this project, we will expand on my postdoctoral research to investigate the relative importance of background meteorology and mesoscale initiation mechanisms on the convective life cycle. Our study will begin by tracking isolated convective cells observed during the TRACER field campaign in a subtropical environment, then comparing them to cells initiated in the mid-latitude environment over the ARM BNF site. You can find the public abstract *[here](https://pamspublic.science.energy.gov/webpamsexternal/Interface/Common/ViewPublicAbstract.aspx?rv=a152d253-7453-4401-8b53-23903fc55457&rtc=24&PRoleId=10)* and the list of other PIs and funded projects in this ASR call *[here](https://asr.science.energy.gov/news/program-news/post/18721)*.
+
+
 **August 2024:** 
 
 The first paper from my postdoctoral research has been accepted for publication in the AMS Monthly Weather Review. In this study, we analyzed radiosonde observations to examine the meteorological conditions that serve as inflow to isolated deep convective cells. This research, funded by the U.S. Department of Energy, focuses on the evolution of isolated cells in maritime and continental air masses across sea and bay breeze fronts in southeast Texas. Our findings show that mesoscale heterogeneity across these frontal boundaries favors maritime air masses with greater thermodynamic instability, leading to shallow convection with larger composite reflectivity and deep convection with greater cell area throughout their life cycle. You can access the paper *[here](https://doi.org/10.1175/MWR-D-23-0243.1)*.
 
-I'm excited to announce that I've joined the AMS education newsletter, *Weather With A Twist*, as a scientific reviewer. Under the leadership of Aaron Price, I'm part of a team of four passionate science communicators dedicated to sharing the latest and most exciting research in weather, water, and climate from around the world. The first issue I reviewed is now online and can be accessed *[here](https://weathertwist.substack.com/p/the-subtle-sublimation-of-snow?utm_source=post-email-title&publication_id=2108892&post_id=147021050&utm_campaign=email-post-title&isFreemail=true&r=3noptl&triedRedirect=true&utm_medium=email).
+I'm excited to announce that I've joined the AMS education newsletter, *Weather With A Twist*, as a scientific reviewer. Under the leadership of Aaron Price, I'm part of a team of four passionate science communicators dedicated to sharing the latest and most exciting research in weather, water, and climate from around the world. The first issue I reviewed is now online and can be accessed *[here](https://weathertwist.substack.com/p/the-subtle-sublimation-of-snow?utm_source=post-email-title&publication_id=2108892&post_id=147021050&utm_campaign=email-post-title&isFreemail=true&r=3noptl&triedRedirect=true&utm_medium=email)*.
 
 **July 2024:** 
 
