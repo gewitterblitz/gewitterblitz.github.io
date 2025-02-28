@@ -47,6 +47,22 @@ a:active {
 Recent News:
 ======
 
+**March 2025:** 
+
+I attended the 2025 Joint ARM User Facility and ASR PI Meeting in Maryland, USA, where I co-authored two poster presentations.
+The <a href="" target="https://asr.science.energy.gov/meetings/stm/posters/abstract/3475" LINK="red">first poster</a> 
+summarizes my postdoctoral research on idealized WRF simulations of aerosol-convection interactions. 
+The <a href="" target="https://asr.science.energy.gov/meetings/stm/posters/abstract/3401" LINK="red">second poster</a>
+introduces our new DOE-funded proposal, which investigates how mesoscale initiation mechanisms, 
+initial updraft characteristics, and aerosol variability influence the evolution of deep convective clouds.
+
+
+**February 2025:** 
+
+I trained TAMU ATMO undergradaute students to launch weather balloons for the University Coordinated Radiosonde project during <a href="" target="https://cw3e.ucsd.edu/arrecon_overview/" LINK="red">Atmospheric River Reconnaissance (AR Recon) program</a>,
+for better understanding of atmospheric rivers affecting the continental United States. We used <a href="" target="https://www.intermetsystems.com/products/imet-4-radiosonde/" LINK="red">iMet-4 radiosondes</a> for tropospheric thermodynamic and kinematic profiling downstream of atmospheric rivers at 21, 00, and 03 UTC during multiple IOPs.
+
+
 **October 2024:** 
 
 Major career update: I have been promoted to Assistant Research Scientist in the Department of Atmospheric Science at Texas A&M University, effective October 2024. 
