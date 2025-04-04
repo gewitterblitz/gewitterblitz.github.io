@@ -47,6 +47,9 @@ a:active {
 Recent News:
 ======
 
+**April 2025:** 
+I attended the NSF-supported <a href="" target="http://lightning.ttu.edu/workshop/" LINK="red">2025 Lightning Modeling Grand Challenge Workshop</a>, held from April 1–3, 2025, at Texas Tech University. In person meeting: Lubbock, Texas.
+
 **March 2025:** 
 
 I attended the 2025 Joint ARM User Facility and ASR PI Meeting in Maryland, USA, where I co-authored two poster presentations.
