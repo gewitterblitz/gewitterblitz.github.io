@@ -47,6 +47,17 @@ a:active {
 Recent News:
 ======
 
+**Summer 2025 Highlights:**
+We had two papers accepted, one submitted (curently under review), and several conference presentation abstracts submitted for the AMS Annual Meeting 2026.
+
+1. *TRACER field campaign overview:*. A paper led by Dr. Michael Jensen (PI for DOE TRACER field campaign) is now available as an early online release in the Bulletin of the American Meteorological Society. It outlines the project objectives, science missions, and preliminary analyses from collaborative efforts to map spatiotemporal variability in thermodynamic environments and aerosol populations across the Houston metro area. Read it *[here](https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0331.1/BAMS-D-23-0331.1.xml)*.
+
+2. *JGR: Atmospheres (in press):* A paper led by Dr. Seth Thompson (Texas A&M PhD; now a postdoc at NASA Langley) summarizes ice nucleating particle (INP) measurements collected by the Rapid Onsite Atmospheric Measurement Van (ROAM-V), a mobile laboratory operated by TAMU. The team sampled INPs in maritime and continental air masses influenced by sea and bay breezes around Houston. Link coming soon.
+
+3. *GRL (under review):* In a manuscript I'm leading, we test an ensemble approach for modeling aerosol–cloud interactions. Small, three-dimensional random perturbations to initial conditions produce large variability in updraft velocity and supersaturation—sometimes comparable to effects often attributed to aerosol-induced updraft invigoration. Using an objective method, we show that an ensemble of at least 10 members helps minimize variability from these stochastic perturbations. The preprint is available *[here](https://essopenarchive.org/users/954497/articles/1323502-the-importance-of-an-ensemble-approach-for-modeling-aerosol-convection-interactions)*. 
+
+4. *AMS 106<sup>th</sup> Annual Meeting (Houston, TX):* Building on the ensemble work, I'll present a detailed sensitivity analysis of aerosol-convection interactions for an isolated convective cell using idealized WRF simulations. I'm also a co-author on three additional abstracts covering convection initiation in southeast Texas, their lightning characteristics, and a comparison study to evaluate how well do convection-permitting models reproduce observed inflow thermodynamic profiles. Stay tuned for a TAMU-packed program in Houston!
+
 **April 2025:** 
 I attended the NSF-supported *[2025 Lightning Modeling Grand Challenge Workshop](http://lightning.ttu.edu/workshop/)*, held from April 1–3, 2025, at Texas Tech University. In person meeting: Lubbock, Texas.
 
