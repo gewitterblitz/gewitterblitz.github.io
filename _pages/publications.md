@@ -81,7 +81,24 @@ a:active {
   
   
 <h2 style="color:SteelBlue;" vspace="-60px;"><a id="full_publications">Full list of Publications:</a></h2>
+
+<h2 style="color:DarkRed;">2025</h2>  
+<hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
+<ul style="margin:1;padding:1">
+  <li>  <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JD044164" target="_blank"> Variability in Ice Nucleating Particles Across Greater Houston Texas</a>
+  <br>  Seth A Thompson, ..., Milind Sharma, and others.
+  <br>  In AGU Journal of Geophysical Research: Atmospheres.</li>
+
+  <li>  <a href="https://essopenarchive.org/users/954497/articles/1323502-the-importance-of-an-ensemble-approach-for-modeling-aerosol-convection-interactions" target="_blank"> The Importance of an Ensemble Approach for Modeling Aerosol-Convection Interactions</a>
+  <br>  Milind Sharma, Anita D Rapp, Christopher Nowotarski, Bo Chen, and Sarah D Brooks.
+  <br>  Submitted to AGU Geophysical Research Letters.</li>
+
+  <li>  <a href="https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0331.1/BAMS-D-23-0331.1.xml" target="_blank"> Studying Aerosol, Clouds, and Air Quality in the Coastal Urban Environment of Southeastern Texas</a>
+  <br>  Michael P. Jensen, ..., Milind Sharma, and others..
+  <br>  EOR: AMS Bulletin of American Meteorological Society.</li>
+</ul>  
+
 <h2 style="color:DarkRed;">2024</h2>  
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
@@ -89,7 +106,7 @@ a:active {
 
   <li>  <b>A Unique Inter-Agency Collaboration and Weather Forecasting Exercise to support the TRACER+ Field Experiments near Houston, Texas</b>
   <br>  Siddhant Gupta, ..., Milind Sharma, and others.
-  <br>  Submitted to Bulletin of American Meteorological Society.</li>
+  <br>  Submitted to AMS Bulletin of American Meteorological Society.</li>
 
   <li>  <a href="https://www.nature.com/articles/s41597-024-03477-9" target="_blank"> Spatially distributed atmospheric boundary layer properties in Houston – A value-added observational dataset</a>
   <br>  Katia Lamer, ..., Milind Sharma, and others.
@@ -97,11 +114,11 @@ a:active {
 
   <li>  <a href="https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0218.1/BAMS-D-23-0218.1.xml" target="_blank"> An overview of the TAMU TRACER field campaign</a>
   <br>  Anita D. Rapp, Sarah D. Brooks, Christopher J. Nowotarski, Milind Sharma, and others.
-  <br>  EOR: Bulletin of American Meteorological Society.</li>
+  <br>  In AMS Bulletin of American Meteorological Society.</li>
 
   <li>  <a href="https://journals.ametsoc.org/view/journals/mwre/aop/MWR-D-23-0243.1/MWR-D-23-0243.1.xml" target="_blank"> Observed variability in thunderstorm characteristics and near-storm environments across the sea-breeze front in Southeast Texas during the DOE TRACER field campaign</a> 
   <br>  Milind Sharma, Anita D. Rapp, Christopher J. Nowotarski 
-  <br>  EOR: AMS Monthly Weather Review.</li>
+  <br>  In AMS Monthly Weather Review.</li>
   <details>
   <summary><span style="color:Maroon;"> 1 min pitch!</span></summary>
   <span class="abstract-text" style="font-size:.90em; color:Maroon; text-align: justify">
