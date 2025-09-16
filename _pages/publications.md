@@ -86,6 +86,10 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
 <ul style="margin:1;padding:1">
+  <li>  <a href="https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3363/" target="_blank"> A New Technique to Retrieve Aerosol Vertical Profiles Using Micropulse Lidar and Ground-based Aerosol Measurements</a>
+  <br>  Bo Chen, ..., Milind Sharma, and others.
+  <br>  In EGU Atmospheric Measurement Techniques.</li>
+
   <li>  <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025JD044164" target="_blank"> Variability in Ice Nucleating Particles Across Greater Houston Texas</a>
   <br>  Seth A Thompson, ..., Milind Sharma, and others.
   <br>  In AGU Journal of Geophysical Research: Atmospheres.</li>
