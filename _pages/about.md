@@ -48,7 +48,7 @@ Recent News:
 ======
 
 **October 2025:**
-I will be joining the AMS Monthly Weather Review jounral team as an Associate Editor for the 2026-27 term.
+I will be joining the AMS Monthly Weather Review journal team as an Associate Editor for the 2026-27 term.
 
 **Summer 2025 Highlights:**
 We had two papers accepted, one submitted (curently under review), and several conference presentation abstracts submitted for the AMS Annual Meeting 2026.
