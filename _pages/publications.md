@@ -86,7 +86,7 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
 <ul style="margin:1;padding:1">
-  <li>  <a href="https://egusphere.copernicus.org/preprints/2024/egusphere-2024-3363/" target="_blank"> A New Technique to Retrieve Aerosol Vertical Profiles Using Micropulse Lidar and Ground-based Aerosol Measurements</a>
+  <li>  <a href="https://doi.org/10.5194/amt-18-5841-2025" target="_blank"> A New Technique to Retrieve Aerosol Vertical Profiles Using Micropulse Lidar and Ground-based Aerosol Measurements</a>
   <br>  Bo Chen, ..., Milind Sharma, and others.
   <br>  In EGU Atmospheric Measurement Techniques.</li>
 
@@ -96,11 +96,11 @@ a:active {
 
   <li>  <a href="https://essopenarchive.org/users/954497/articles/1323502-the-importance-of-an-ensemble-approach-for-modeling-aerosol-convection-interactions" target="_blank"> The Importance of an Ensemble Approach for Modeling Aerosol-Convection Interactions</a>
   <br>  Milind Sharma, Anita D Rapp, Christopher Nowotarski, Bo Chen, and Sarah D Brooks.
-  <br>  Submitted to AGU Geophysical Research Letters.</li>
+  <br>  In review: AGU Geophysical Research Letters.</li>
 
-  <li>  <a href="https://journals.ametsoc.org/view/journals/bams/aop/BAMS-D-23-0331.1/BAMS-D-23-0331.1.xml" target="_blank"> Studying Aerosol, Clouds, and Air Quality in the Coastal Urban Environment of Southeastern Texas</a>
+  <li>  <a href="https://doi.org/10.1175/BAMS-D-23-0331.1" target="_blank"> Studying Aerosol, Clouds, and Air Quality in the Coastal Urban Environment of Southeastern Texas</a>
   <br>  Michael P. Jensen, ..., Milind Sharma, and others..
-  <br>  EOR: AMS Bulletin of American Meteorological Society.</li>
+  <br>  In AMS Bulletin of American Meteorological Society.</li>
 </ul>  
 
 <h2 style="color:DarkRed;">2024</h2>  

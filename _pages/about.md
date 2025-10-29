@@ -48,7 +48,10 @@ Recent News:
 ======
 
 **October 2025:**
-I will be joining the AMS Monthly Weather Review journal team as an Associate Editor for the 2026-27 term.
+1. I will be joining the AMS Monthly Weather Review journal team as an Associate Editor for the 2026-27 term.
+
+2. A new paper led by Dr. Bo Chen (Ph.D. from Texas A&M, now a postdoc at Colorado State University), which I co-authored, has just been published in EGU Atmospheric Measurement Techniques. The study presents a method for retrieving aerosol vertical profiles by combining in situ surface aerosol measurements with micropulse lidar normalized relative backscatter profiles. Check it out *[here](https://doi.org/10.5194/amt-18-5841-2025)*. 
+
 
 **Summer 2025 Highlights:**
 We had two papers accepted, one submitted (curently under review), and several conference presentation abstracts submitted for the AMS Annual Meeting 2026.
