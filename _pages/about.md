@@ -47,6 +47,12 @@ a:active {
 Recent News:
 ======
 
+<!-- **January 2026:**
+I am chairing a session on "Pioneering Advances in Weather Forecasting Using AI, Machine Learning, and Ensembles" at the Third Symposium on the Future of Weather, Forecasting, and Practice during AMS Annual Meeting. -->
+
+**December 2025:**
+1. A new paper led by Dr. Seth Thompson (Ph.D., Texas A&M; now a postdoc at NASA Langley Research Center), which I co-authored, has been accepted in Aerosol Science and Technology. We analyze aerosol characteristics in convective outflows across three sites in southeast Texas. The results show how aerosol size distribution and hygroscopicity shift as outflows pass through, which helps clarify how these changes influence CCN availability for secondary convection triggered by outflows from primary convection. I'll share the link once the final version is published.
+
 **October 2025:**
 1. I will be joining the AMS Monthly Weather Review journal team as an Associate Editor for the 2026-27 term.
 
