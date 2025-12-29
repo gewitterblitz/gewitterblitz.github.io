@@ -51,7 +51,15 @@ Recent News:
 I am chairing a session on "Pioneering Advances in Weather Forecasting Using AI, Machine Learning, and Ensembles" at the Third Symposium on the Future of Weather, Forecasting, and Practice during AMS Annual Meeting. -->
 
 **December 2025:**
-1. A new paper led by Dr. Seth Thompson (Ph.D., Texas A&M; now a postdoc at NASA Langley Research Center), which I co-authored, has been accepted in Aerosol Science and Technology. We analyze aerosol characteristics in convective outflows across three sites in southeast Texas. The results show how aerosol size distribution and hygroscopicity shift as outflows pass through, which helps clarify how these changes influence CCN availability for secondary convection triggered by outflows from primary convection. I'll share the link once the final version is published.
+
+1. A new paper led by yours truly has been published in *AGU Geophysical Research Letters*. We conduct idealized numerical simulations of an isolated deep convective cloud as part of the DOE TRACER project. Check out the full paper *[here](https://doi.org/10.1029/2025GL118530)*.
+
+   Some key findings:
+   - Small-scale random perturbations in the initial temperature profile can result in substantial uncertainty in updraft velocity and supersaturation characteristics, comparable to aerosol updraft invigoration reported in prior studies.
+   - We recommend using a sufficiently large ensemble of simulations when possible.
+   - When ensemble runs are infeasible due to large domains or longer-duration simulations, intrinsic cell populations within broadly similar large-scale thermodynamic conditions can be used to sample internal variability by analyzing multiple cells.
+
+2. A new paper led by Dr. Seth Thompson (Ph.D., Texas A&M; now a postdoc at NASA Langley Research Center), which I co-authored, has been accepted in Aerosol Science and Technology. We analyze aerosol characteristics in convective outflows across three sites in southeast Texas. The results show how aerosol size distribution and hygroscopicity shift as outflows pass through, which helps clarify how these changes influence CCN availability for secondary convection triggered by outflows from primary convection. I'll share the link once the final version is published.
 
 **October 2025:**
 1. I will be joining the AMS Monthly Weather Review journal team as an Associate Editor for the 2026-27 term.

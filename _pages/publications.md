@@ -86,6 +86,15 @@ a:active {
 <hr style="height:1px;border:none;color:#333;background-color:#333;" /> 
   
 <ul style="margin:1;padding:1">
+
+  <li>  <a href="https://doi.org/10.1029/2025GL118530" target="_blank"> The Importance of an Ensemble Approach for Modeling Aerosol-Convection Interactions</a>
+  <br>  Milind Sharma, Anita D. Rapp, Christopher J. Nowotarski, Bo Chen, Sarah D. Brooks.
+  <br>  In AGU Geophysical Research Letters.</li>
+
+  <li>  <a href="https://doi.org/10.1080/02786826.2025.2608352" target="_blank"> Understanding Aerosol Properties in Convective Outflows during TRACER</a>
+  <br>  Seth Thompson, ..., Milind Sharma, and others.
+  <br>  In Aerosol Science and Technology.</li>
+
   <li>  <a href="https://doi.org/10.5194/amt-18-5841-2025" target="_blank"> A New Technique to Retrieve Aerosol Vertical Profiles Using Micropulse Lidar and Ground-based Aerosol Measurements</a>
   <br>  Bo Chen, ..., Milind Sharma, and others.
   <br>  In EGU Atmospheric Measurement Techniques.</li>
