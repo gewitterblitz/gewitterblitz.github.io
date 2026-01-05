@@ -47,8 +47,16 @@ a:active {
 Recent News:
 ======
 
-<!-- **January 2026:**
-I am chairing a session on "Pioneering Advances in Weather Forecasting Using AI, Machine Learning, and Ensembles" at the Third Symposium on the Future of Weather, Forecasting, and Practice during AMS Annual Meeting. -->
+**January 2026:**
+
+1. I have joined the AMS Monthly Weather Review journal team as an Associate Editor. I look forward to contributing to the peer-review process and supporting the journal's mission.
+
+2. I have joined the AMS Committee on Radar Meteorology. I look forward to supporting the committee's work on advancing weather radar research and its applications. 
+
+3. I am chairing a session on "Pioneering Advances in Weather Forecasting Using AI, Machine Learning, and Ensembles" at the Third Symposium on the Future of Weather, Forecasting, and Practice during AMS Annual Meeting. [Session link](https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Session/74235).
+
+4. I will be presenting my research on aerosol–convection interactions in idealized deep convective clouds, with a focus on sensitivity to model configuration and aerosol characteristics, on 29 January (Thursday) at the AMS Annual Meeting in Houston, TX [(abstract)](https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/472068). I am also a co-author on three additional presentations, all on 27 January (Tuesday): Nowotarski et al. [(abstract)](https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/471962), Ellis et al. [(abstract)](https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/471975), and Gardner et al. [(abstract)](https://ams.confex.com/ams/106ANNUAL/meetingapp.cgi/Paper/468674).
+
 
 **December 2025:**
 
@@ -62,9 +70,8 @@ I am chairing a session on "Pioneering Advances in Weather Forecasting Using AI,
 2. A new paper led by Dr. Seth Thompson (Ph.D., Texas A&M; now a postdoc at NASA Langley Research Center), which I co-authored, has been accepted in Aerosol Science and Technology. We analyze aerosol characteristics in convective outflows across three sites in southeast Texas. The results show how aerosol size distribution and hygroscopicity shift as outflows pass through, which helps clarify how these changes influence CCN availability for secondary convection triggered by outflows from primary convection. I'll share the link once the final version is published.
 
 **October 2025:**
-1. I will be joining the AMS Monthly Weather Review journal team as an Associate Editor for the 2026-27 term.
 
-2. A new paper led by Dr. Bo Chen (Ph.D. from Texas A&M, now a postdoc at Colorado State University), which I co-authored, has just been published in EGU Atmospheric Measurement Techniques. The study presents a method for retrieving aerosol vertical profiles by combining in situ surface aerosol measurements with micropulse lidar normalized relative backscatter profiles. Check it out *[here](https://doi.org/10.5194/amt-18-5841-2025)*. 
+1. A new paper led by Dr. Bo Chen (Ph.D. from Texas A&M, now a postdoc at Colorado State University), which I co-authored, has just been published in EGU Atmospheric Measurement Techniques. The study presents a method for retrieving aerosol vertical profiles by combining in situ surface aerosol measurements with micropulse lidar normalized relative backscatter profiles. Check it out *[here](https://doi.org/10.5194/amt-18-5841-2025)*. 
 
 
 **Summer 2025 Highlights:**
