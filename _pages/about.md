@@ -47,6 +47,10 @@ a:active {
 Recent News:
 ======
 
+**March 2026:**
+
+I attended the NSF-sponsored *[2026 NCAR Radar Technology Community Workshop](https://www.eol.ucar.edu/Radar-Technology-Workshop)*, held from March 10–12, 2026, at NCAR Center Green Campus. In person meeting: Boulder, CO.
+
 **January 2026:**
 
 1. I have joined the AMS Monthly Weather Review journal team as an Associate Editor. I look forward to contributing to the peer-review process and supporting the journal's mission.
